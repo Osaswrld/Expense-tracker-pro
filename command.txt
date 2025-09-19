@@ -1,0 +1,2 @@
+pyhton --version # Make sure you have Python installed
+python expense_tracker.py # Now run your main file 
